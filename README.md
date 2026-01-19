@@ -1,6 +1,21 @@
-# API Load Tester (TypeScript)
+<p align="center">
+  <img src="assets/github-banner-api-tester.png" alt="API Load Tester Banner">
+</p>
 
-A high-performance, lightweight API load testing tool built with **Node.js** and **TypeScript**. This project allows for stress-testing GET and POST endpoints with configurable RPS (Requests Per Second) and duration, featuring detailed logging and type-safe dynamic data generation.
+<h1 align="center">API Load Tester</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-5.9+-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-18.0+-green?style=for-the-badge&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/License-ISC-orange?style=for-the-badge" alt="License">
+</p>
+
+<p align="center">
+  <strong>A high-performance, lightweight API load testing tool built with Node.js and TypeScript.</strong><br>
+  Stress-test GET and POST endpoints with configurable RPS and duration, featuring detailed logging and recursive data generation.
+</p>
+
+---
 
 ## 🚀 Key Features
 
