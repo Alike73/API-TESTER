@@ -1,4 +1,4 @@
-# API Load Tester
+# Load Tester for API using Node.js and TypeScript
 
 ![API Load Tester Banner](assets/github-banner-api-tester.png)
 
