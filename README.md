@@ -97,4 +97,3 @@ npx eslint .
 
 ---
 **Senior QA & TypeScript Recommendation:** Always verify your `.env` configuration against a staging environment before running high RPS tests to avoid unintentional API rate limiting or service disruption.
-# API-TESTER
