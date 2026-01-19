@@ -1,19 +1,12 @@
-<p align="center">
-  <img src="assets/github-banner-api-tester.png" alt="API Load Tester Banner">
-</p>
+# API Load Tester
 
-<h1 align="center">API Load Tester</h1>
+![API Load Tester Banner](assets/github-banner-api-tester.png)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-5.9+-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-18.0+-green?style=for-the-badge&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/License-ISC-orange?style=for-the-badge" alt="License">
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9+-blue?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-18.0+-green?style=for-the-badge&logo=node.js)
+![License](https://img.shields.io/badge/License-ISC-orange?style=for-the-badge)
 
-<p align="center">
-  <strong>A high-performance, lightweight API load testing tool built with Node.js and TypeScript.</strong><br>
-  Stress-test GET and POST endpoints with configurable RPS and duration, featuring detailed logging and recursive data generation.
-</p>
+A high-performance, lightweight API load testing tool built with **Node.js** and **TypeScript**. Stress-test GET and POST endpoints with configurable RPS and duration, featuring detailed logging and recursive data generation.
 
 ---
 
