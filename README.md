@@ -29,7 +29,7 @@ A high-performance, lightweight API load testing tool built with **Node.js** and
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/api-tester.git
+   git clone https://github.com/Alike73/API-TESTER.git
    cd api-tester
    ```
 
